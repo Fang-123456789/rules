@@ -1,2 +1,4 @@
 #直连列表
 DOMAIN,www.baidu.com
+IP-CIDR,114.114.114.114
+DOMAIN-SUFFIX,qq.com
